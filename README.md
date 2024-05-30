@@ -16,8 +16,8 @@ To create this App I used Android Studios, programming in both xml and Java. Kot
 
 # Useful Websites
 
-* [Web Site Name]([http://url.link.goes.here](https://developer.android.com/))
-* [Web Site Name]([http://url.link.goes.here](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0))
+* [Android Studios Home Page]([http://url.link.goes.here](https://developer.android.com/))
+* [Android Studios, Creating Your First App]([http://url.link.goes.here](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0))
 
 
 # Future Work
